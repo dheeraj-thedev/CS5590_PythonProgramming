@@ -1,0 +1,5 @@
+class is full,3
+is python deep learning
+,4
+todays class
+,2
